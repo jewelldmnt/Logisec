@@ -1,0 +1,1 @@
+This program generates a strong password consisting of ascii characters. Run the main.py file to run the program.
